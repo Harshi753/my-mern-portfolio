@@ -9,10 +9,10 @@ const Footer = () => {
           <p style={styles.text}>&copy; 2025 Harshitha. All rights reserved.</p>
           
           <div style={styles.social}>
-            <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" style={styles.link}>
+            <a href="https://github.com/Harshi753" target="_blank" rel="noopener noreferrer" style={styles.link}>
               <FaGithub />
             </a>
-            <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer" style={styles.link}>
+            <a href="https://linkedin.com/in/harshitha-j-patil-60ab50244" target="_blank" rel="noopener noreferrer" style={styles.link}>
               <FaLinkedin />
             </a>
             

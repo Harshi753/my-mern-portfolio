@@ -28,6 +28,9 @@ const Navbar = () => {
           <li style={styles.navItem}>
             <a onClick={() => scrollToSection('about')} style={styles.navLink}>About</a>
           </li>
+           <li style={styles.navItem}>
+            <a onClick={() => scrollToSection('skills')} style={styles.navLink}>Skills</a>
+          </li>
           <li style={styles.navItem}>
             <a onClick={() => scrollToSection('contact')} style={styles.navLink}>Contact</a>
           </li>
